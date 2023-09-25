@@ -1,4 +1,5 @@
-# Numi
+# Numi 
+#This is a comment
 
 [Numi](https://numi.app) is a handy calculator app for macOS. It allows you to describe tasks naturally and instantly get an accurate answer. For example, `$20 in euro - 5% discount` or `today + 2 weeks`. 
 

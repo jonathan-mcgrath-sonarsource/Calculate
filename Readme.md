@@ -11,7 +11,7 @@
 * [Plugins](../../wiki/Plugins)
 * [Translation](../../wiki/Translation)
 
-## Numi CLI
+## Numi CLIawsda
 
 You can use Numi from command line on Linux and macOS. The CLI version is still experimental, and not all features are supported. 
 

@@ -16,7 +16,7 @@
 You can use Numi from command line on Linux and macOS. The CLI version is still experimental, and not all features are supported. 
 
 ### Installation
-
+awsdwasd
 The recommended way is to install using [Homebrew](https://brew.sh/): 
 
 `brew install nikolaeu/numi/numi-cli`

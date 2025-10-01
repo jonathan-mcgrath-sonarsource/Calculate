@@ -4,7 +4,7 @@
 
 ![](https://numi.app/images/numi-screenshot-yellow.png)
 
-## Documentation
+## Documentation test
 
 * [App Documentation](../../wiki/Documentation)
 * [Alfred Integration](../../wiki/Alfred-Integration)

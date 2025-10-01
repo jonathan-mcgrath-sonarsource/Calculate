@@ -6,6 +6,8 @@
 
 ## Documentation
 
+updated
+
 * [App Documentation](../../wiki/Documentation)
 * [Alfred Integration](../../wiki/Alfred-Integration)
 * [Plugins](../../wiki/Plugins)
